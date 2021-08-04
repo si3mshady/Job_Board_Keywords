@@ -1,0 +1,13 @@
+h1 {
+    color: white;
+}
+
+.gauge {
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+}
+
+.gauge > h1 {
+    margin: auto;
+}
